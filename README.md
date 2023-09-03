@@ -1,10 +1,11 @@
+<!--<p align="center"><img width="40%" class="" src="banner.jpg" alt="" /></p>-->
+
 ## ✅ Unveiling Top and Amazing 𝗬𝗼𝘂𝗧𝘂𝗯𝗲 channels for learning to code 👨‍💻🔥
 
-<p>
-Explore top YouTube channels for learning web development, app development, coding, and more. This repository is a curated collection of amazing channels to help you master various aspects of programming and software development."
-</p>
-<img class="" src="banner.jpg" alt="" />
-
+<div>
+  <p><img width="30%" class="" src="banner2.jpeg" alt="" />
+  Explore top YouTube channels for learning web development, app development, coding, and more. This repository is a curated collection of amazing channels to help you master various aspects of programming and software development.</p>
+</div>
 
 ### ⚡ List Of All Channels
 
