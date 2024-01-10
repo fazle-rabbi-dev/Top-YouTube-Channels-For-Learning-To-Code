@@ -2,16 +2,20 @@
 
 ## ✅ Unveiling Top and Amazing 𝗬𝗼𝘂𝗧𝘂𝗯𝗲 channels for learning to code 👨‍💻🔥
 
-<div>
-  <p><img width="30%" class="" src="banner2.jpeg" alt="" />
+<img width="100%" class="" src="banner2.jpeg" alt="" />
+<p>
   Explore top YouTube channels for learning web development, app development, coding, and more. This repository is a curated collection of amazing channels to help you master various aspects of programming and software development.</p>
+</p>
+
+<div align="center">
+
+` List Of All Channels `
+
 </div>
 
-### ⚡ List Of All Channels
-
-<p align="center"><h2 align="center">
+<h2 align="center">
   Bangla Channels 🇧🇩
-</h2></p>
+</h2>
 
 - **Anisul Islam**(Web Development || Android development || Programming Languages):<a class="" href="https://youtube.com/@anisul-islam">Open</a>
 
@@ -23,9 +27,9 @@
 
 ---
 
-<p align="center"><h2 align="center">
+<h2 align="center">
  Hindi Channels 🇨🇮
-</h2></p>
+</h2>
 
 - **Code with harry**(Web Development || Programming Languages || Android Development || Dsa & Algo):<a class="" href="https://youtube.com/@CodeWithHarry">Open</a>
 
@@ -39,9 +43,9 @@
 
 ---
 
-<p align="center"><h2 align="center">
+<h2 align="center">
 English Channels 🇺🇸
-</h2></p>
+</h2>
 
 - **FreeCodeCamp.org**(Web/Android Development || Programing Languages || Dsa & Algo and much more):<a class="" href="https://youtube.com/@freecodecamp">Open</a>
 
