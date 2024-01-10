@@ -13,7 +13,7 @@
 
 </div>
 
-<h2 align="center">
+<h2>
   Bangla Channels 🇧🇩
 </h2>
 
@@ -27,7 +27,7 @@
 
 ---
 
-<h2 align="center">
+<h2>
  Hindi Channels 🇨🇮
 </h2>
 
@@ -43,7 +43,7 @@
 
 ---
 
-<h2 align="center">
+<h2>
 English Channels 🇺🇸
 </h2>
 
